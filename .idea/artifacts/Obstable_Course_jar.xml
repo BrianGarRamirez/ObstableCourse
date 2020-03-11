@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Obstable Course:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Obstable_Course_jar</output-path>
+    <root id="archive" name="Obstable Course.jar">
+      <element id="module-output" name="Obstable Course" />
+    </root>
+  </artifact>
+</component>
